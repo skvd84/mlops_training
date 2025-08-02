@@ -1,0 +1,6 @@
+outs:
+- md5: 1b69b994b075a4999d06e49d8650f61a.dir
+  size: 17
+  nfiles: 1
+  hash: md5
+  path: datasets-sheejith
